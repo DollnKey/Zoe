@@ -12,6 +12,7 @@ Meu nome é Zoe e sou uma Bot Discord feita em JavaScript
 [Servidor de Suporte](https://discord.gg/VdnPu5B) <br><br>
 
 # Integrantes do Time:
+DxllnKey#7768 (Programação Geral)<br><br>
 ! み 'Lra#0001 (Divulgadora e Responsividade)<br><br>
 polar#0003 (Divulgador)<br><br>
 </ Fria e Calculista 😎 >#0001 (Não é Travequinho Amigo) (VPS, Programação, Design, Responsividade, Criador)<br><br>
